@@ -1,0 +1,6 @@
+K = input ("quien es tu profesor favorito: ")
+b = input ("escribe que comida te gusta: ")
+c = input ("escribe cual es tu curso favorito: ")
+d = input ("escribe el nombre de tu promocion: ")
+e = input ("escribe un anime que te gusta: ")
+print ("tu profesor favorito es",K,"la comida que te gusta es",b,"tu curso favorito es",c,"el nombre de tu promocion es",d,"el anime que te gusta es",e)
